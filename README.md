@@ -1,4 +1,4 @@
-# Detecting facemasks in images with Faster R-CNN in Pytorch.
+# Detecting facemasks in images with Faster R-CNN using Pytorch.
 
 An important concept to understand for this project is **Transfer Learning**. 
 >  Transfer learning is a machine learning method where we reuse a pre-trained model as the starting point for a model on a new task. To put it simply—a model trained on one task is repurposed on a second, related task as an optimization that allows rapid progress when modeling the second task.
